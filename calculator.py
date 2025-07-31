@@ -1,4 +1,4 @@
-# Fully Open Sourcd Modern Calculator - Made by Vladimir (https://vladweb.xyz)
+# Fully Open Sourced Modern Calculator - Made by Vladimir (https://vladweb.xyz)
 
 import tkinter as tk
 from tkinter import ttk
